@@ -87,6 +87,3 @@ Make sure you have Python 3.8+ and pip installed on your system.
     Open your browser and navigate to the local URL provided by Streamlit.
 
 ---
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.

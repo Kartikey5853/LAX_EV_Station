@@ -1,0 +1,28 @@
+{
+    "Krishna": {
+        "name": "Krishna",
+        "password": "Krishna",
+        "vehicles": "OD0001"
+    },
+    "kartikey": {
+        "name": "kartikey",
+        "password": "kartikey",
+        "vehicles": [
+            "TS019283"
+        ]
+    },
+    "RAJ": {
+        "name": "RAJ",
+        "password": "RAJ",
+        "vehicles": [
+            "TS38749"
+        ]
+    },
+    "kartikey1": {
+        "name": "kartikey1",
+        "password": "123456",
+        "vehicles": [
+            "TS08EV4744"
+        ]
+    }
+}

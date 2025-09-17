@@ -49,7 +49,7 @@ def payment_option():
     params = st.session_state['payment_params']
 
     # --- Payment Details ---
-    payee_upi_id = "kartikeymanthra@oksbi"
+    payee_upi_id = "your upi id"
     payee_name = "EV Charging Corp"
 
     with st.container(border=True):
